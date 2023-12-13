@@ -31,3 +31,7 @@ services:
 
 volumes:
   postgres_data:
+    name: postgres_data
+networks:
+  default:
+    name: django_network
