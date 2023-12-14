@@ -1,0 +1,11 @@
+{
+	"files.associations": {
+		"\".tpp\"": "\"cpp\"",
+		"iostream": "cpp",
+		"ios": "cpp",
+		"streambuf": "cpp",
+		"istream": "cpp",
+		"ostream": "cpp",
+		"__config": "cpp"
+	}
+}

@@ -9,7 +9,7 @@ services:
     ports:
       - "8000:8000"
     volumes:
-      - .:/code
+      - ./my_site:/code
     environment:
       - POSTGRES_NAME=postgres
       - POSTGRES_USER=postgres
