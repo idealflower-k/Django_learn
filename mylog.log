@@ -1,0 +1,841 @@
+Watching for file changes with StatReloader
+Unauthorized: /posts/
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /posts/
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /posts/
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /posts/
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /posts/
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /posts/
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /posts/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.12/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.12/site-packages/rest_framework/views.py", line 497, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "/usr/local/lib/python3.12/site-packages/rest_framework/views.py", line 415, in initial
+    self.check_permissions(request)
+  File "/usr/local/lib/python3.12/site-packages/rest_framework/views.py", line 331, in check_permissions
+    for permission in self.get_permissions():
+                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/rest_framework/views.py", line 278, in get_permissions
+    return [permission() for permission in self.permission_classes]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'BasePermissionMetaclass' object is not iterable
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /posts/
+/code/posts/permissions.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/permissions.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/permissions.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/permissions.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/permissions.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/permissions.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/permissions.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/permissions.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/permissions.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/permissions.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/permissions.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/permissions.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /posts/
+Unauthorized: /posts/
+/code/posts/permissions.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/permissions.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/permissions.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /posts/
+/code/posts/permissions.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/permissions.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/permissions.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /posts/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/rest_framework/request.py", line 416, in __getattr__
+    return getattr(self._request, attr)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'header'. Did you mean: 'headers'?
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.12/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.12/site-packages/rest_framework/views.py", line 497, in dispatch
+    self.initial(request, *args, **kwargs)
+  File "/usr/local/lib/python3.12/site-packages/rest_framework/views.py", line 415, in initial
+    self.check_permissions(request)
+  File "/usr/local/lib/python3.12/site-packages/rest_framework/views.py", line 332, in check_permissions
+    if not permission.has_permission(request, self):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/code/posts/permissions.py", line 8, in has_permission
+    print(request.header)
+          ^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/rest_framework/request.py", line 418, in __getattr__
+    return self.__getattribute__(attr)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Request' object has no attribute 'header'
+/code/posts/permissions.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /posts/
+Successfully imported extension module "markdown.extensions.toc".
+Successfully loaded extension "markdown.extensions.toc.TocExtension".
+Successfully imported extension module "markdown.extensions.toc".
+Successfully loaded extension "markdown.extensions.toc.TocExtension".
+Unauthorized: /posts/
+/code/posts/permissions.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/permissions.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/permissions.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/permissions.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/permissions.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/permissions.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /posts/
+/code/posts/permissions.py changed, reloading.
+Watching for file changes with StatReloader
+POST request data: <QueryDict: {'title': ['Test Post'], 'body': ['Hello This is Test body'], 'category': ['백엔드'], 'image': ['']}>
+User: testuser5
+Auth: 9039338e1c98afa9df8b328e9afa485e839ef300
+Headers: {'Content-Length': '360', 'Content-Type': 'multipart/form-data; boundary=X-INSOMNIA-BOUNDARY', 'Host': 'localhost:8000', 'User-Agent': 'insomnia/8.5.1', 'Authorization': 'Token 9039338e1c98afa9df8b328e9afa485e839ef300', 'Accept': '*/*'}
+Response data: {'title': 'Test Post', 'category': '백엔드', 'body': 'Hello This is Test body', 'image': 'http://localhost:8000/media/default.png'}
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/permissions.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/permissions.py changed, reloading.
+Watching for file changes with StatReloader
+Successfully imported extension module "markdown.extensions.toc".
+Successfully loaded extension "markdown.extensions.toc.TocExtension".
+/code/myboard/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/code/myboard/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/code/myboard/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/code/myboard/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/code/myboard/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Successfully imported extension module "markdown.extensions.toc".
+Successfully loaded extension "markdown.extensions.toc.TocExtension".
+Successfully imported extension module "markdown.extensions.toc".
+Successfully loaded extension "markdown.extensions.toc.TocExtension".
+Successfully imported extension module "markdown.extensions.toc".
+Successfully loaded extension "markdown.extensions.toc.TocExtension".
+Successfully imported extension module "markdown.extensions.toc".
+Successfully loaded extension "markdown.extensions.toc.TocExtension".
+/code/myboard/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/models.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/models.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/models.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/models.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/models.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/models.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/models.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/models.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/models.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/models.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/models.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/models.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/models.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/models.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/models.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/models.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/models.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/models.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/models.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/models.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/models.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/models.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/models.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/models.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/models.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/models.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/models.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/models.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/models.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/models.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/models.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/views.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/code/posts/urls.py changed, reloading.
+Watching for file changes with StatReloader
